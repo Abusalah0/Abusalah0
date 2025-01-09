@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making my own terminal emulator called Minishell <br>🌱 I’m currently learning software development on Linux with C
+🔭 working on making my own terminal emulator called Minishell <br>🌱 I’m a cs student learning web development and software development on Linux with C
 
 
 # 💻 Tech Stack:
