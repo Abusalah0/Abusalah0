@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 working on making my own terminal emulator called Minishell <br>🌱 I’m a cs student learning web development and software development at 42Amman
+🔭 I’m a Computer Science student Currently learning software development at 42Amman
 
 
 # 💻 Tech Stack:
