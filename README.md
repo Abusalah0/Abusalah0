@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm **Abdelrahman**, a passionate **Software Developer** based in **Jordan**. <br/>I specialize in ## 👋 About Me  Hi, I'm **Abdelrahman**, a passionate **Software Developer** based in **Jordan**. <br/>I specialize in Linux development with C, Web development with python django, tailwind, fastapi, also devops using docker, kubernetes and Ci/CD piplines and redhat system adminstration..
+Hi, I'm **Abdelrahman**, a passionate **Software Developer** based in **Jordan**. <br/>I specialize in 👋 About Me  Hi, I'm **Abdelrahman**, a passionate **Software Developer** based in **Jordan**. <br/>I specialize in Linux development with C, Web development with python django, tailwind, fastapi, also devops using docker, kubernetes and Ci/CD piplines and redhat system adminstration..
 
 ## 📬 Contact
 <div style="height:fit-content;display:flex;flex-wrap:wrap; gap: 10px;"><span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
