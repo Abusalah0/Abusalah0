@@ -124,28 +124,6 @@ Hi, I'm **Abdelrahman**, a passionate **Software Developer** based in **Jordan**
   <span style="font-size:11px;display:block;margin-top:4px;">Netlify</span>
 </span>
 
-## 📁 Projects
-
-### libunit
-
-A lightweight unit testing framework for the C language, built from scratch using low-level Unix syscalls. Fully automated with Makefiles, designed for testing isolated C functions in a secure and controlled environment.
-
-🔗 [GitHub Repo](https://github.com/Abusalah0/libunit_42)
-
-### inception
-
-A system administration project that builds a secure, containerized infrastructure using Docker and Docker Compose, fully automated with a Makefile.\
-It features custom Dockerfiles for NGINX (TLS v1.2/v1.3), WordPress with php-fpm, and MariaDB, with persistent volumes, isolated Docker networks, and strong security practices (env files, secrets, no plaintext credentials).\
-All services are containerized from scratch (no pre-built images), and run on a personal VM with strict compliance to containerization best practices.\
-Bonus Features:\
-✅ Redis caching for WordPress\
-✅ FTP server linked to WordPress volume \
-✅ Static portfolio website (non-PHP)\
-✅ Adminer for DB management\
-✅ Additional custom service
-
-🔗 [GitHub Repo](https://github.com/Abusalah0/inception)
-
 ## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abusalah0&label=Profile%20views&color=0e75b6&style=flat)
